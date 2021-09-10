@@ -1,0 +1,12 @@
+Package: lab3mohal954simal451
+Type: Package
+Title: Implements the Euclidian and Dijkstras algorithm.
+Version: 1.0
+Date: 2021-09-09
+Author: Mohammed Ali, Simon Alsen
+Maintainer: Mohammed Ali <mohal954@student.liu.se>, Simon Alsen <simal451@student.liu.se>
+Description: Euclidian algorithm is used to the greatest common divisor of two numbers. Dijkstras algorithm is used to calculate the shortest path from an initial node to every other node in a graph.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
